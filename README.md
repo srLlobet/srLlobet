@@ -11,6 +11,6 @@
 
 **[Javascript & HTML5 Project](https://github.com/Eduardnol/web_p1)**
 
-**[PHP Overwatch Database Project](https://github.com/Eduardnol/web_p2)**
+**[Javascript Overwatch Database Project](https://github.com/Eduardnol/web_p2)**
 
 ## Back-end
