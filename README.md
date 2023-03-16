@@ -5,6 +5,14 @@ I am currently looking for a summer internship.
 
 # Projects I have worked on:
 
+## Survival Souls Unity Game
+
+**[Survival Souls](https://github.com/curialiglesias/Survival-Souls)**
+
+## C++ NO ENGINE games
+
+**[Desert Ball](https://github.com/srLlobet/2D-game-project-NO-ENGINE)**
+
 ## Front-end 
 
 **[CSS project](https://github.com/srLlobet/Pebona-clothing-store-webpage)**
