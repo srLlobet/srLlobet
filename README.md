@@ -23,4 +23,3 @@ Itch.io link: **[Survival Souls](https://lgf-streetlight.itch.io/survival-souls)
 
 **[Javascript Overwatch Database Project](https://github.com/Eduardnol/web_p2)**
 
-## Back-end
