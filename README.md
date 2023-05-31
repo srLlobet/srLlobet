@@ -7,7 +7,9 @@ I am currently looking for a summer internship.
 
 ## Survival Souls Unity Game
 
-**[Survival Souls](https://github.com/curialiglesias/Survival-Souls)**
+Lead Designer & programmer of **[Survival Souls](https://github.com/curialiglesias/Survival-Souls)**
+
+Itch.io link: **[Survival Souls](https://lgf-streetlight.itch.io/survival-souls)**
 
 ## C++ NO ENGINE games
 
