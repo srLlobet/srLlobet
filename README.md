@@ -2,6 +2,7 @@
 
 I am currently looking for a summer internship.
 
+# Current project:
 
 # Projects I have worked on:
 
