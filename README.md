@@ -1,8 +1,7 @@
 #### Hi there 👋 I am a senior year multimedia engineering student, with a videogames mention, and great passion por programming and videogame design. I would like to use all of my acquiered skills and knowledge to get in the game industry. 
 
-I am currently looking for a summer internship.
-
 # Current project:
+Loot The World: A 3d mobile rpg-style game for my TFG.
 
 # Projects I have worked on:
 
