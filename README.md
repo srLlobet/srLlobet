@@ -17,7 +17,7 @@ Itch.io link: **[Survival Souls](https://lgf-streetlight.itch.io/survival-souls)
 
 **[3D - Spaceship](https://github.com/srLlobet/Spaceship)**
 
-## Front-end 
+## Full Stack 
 
 **[CSS project](https://github.com/srLlobet/Pebona-clothing-store-webpage)**
 
