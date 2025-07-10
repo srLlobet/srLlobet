@@ -3,7 +3,7 @@
 # Current project:
 Programmer of a full-on game engine in c++ [Sobrassada Engine](https://github.com/TheCenturiaGames/Sobrassada_Engine)
 
-Lead Designer & Programmer of a game made in that same engine: [The Hound of Ulstar](https://github.com/TheCenturiaGames/The-Hound-of-Ulster).
+Lead Designer & Programmer of a game made in that same engine: [The Hound of Ulster](https://github.com/TheCenturiaGames/The-Hound-of-Ulster).
 
 # Projects I have worked on:
 
