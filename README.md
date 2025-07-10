@@ -1,4 +1,4 @@
-#### Hi there 👋 I am a senior year multimedia engineering student with a videogames mention, a C++ game programming master's degree and great passion por programming and videogame design. I would like to use all of my acquired skills and knowledge to start my professional career in the game industry. 
+#### Hi there 👋 I am a senior year multimedia engineering student with a videogames mention, a C++ game programming master's degree and great passion por programming and videogame design. I would like to use all of my acquired skills and knowledge to start my professional career. 
 
 # Current project:
 Programmer of a full-on game engine in c++ [Sobrassada Engine](https://github.com/TheCenturiaGames/Sobrassada_Engine)
