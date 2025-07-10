@@ -15,11 +15,11 @@ Itch.io link: **[Survival Souls](https://lgf-streetlight.itch.io/survival-souls)
 
 ## C++ NO ENGINE games
 
-**[2D - Desert Ball](https://github.com/srLlobet/2D-game-project-NO-ENGINE)**
+A simple 2D game: **[2D - Desert Ball](https://github.com/srLlobet/2D-game-project-NO-ENGINE)**
 
-**[3D - Spaceship](https://github.com/srLlobet/Spaceship)**
+A simple 3D game: **[3D - Spaceship](https://github.com/srLlobet/Spaceship)**
 
-**[Text adventure](https://github.com/srLlobet/Dig-Down)**
+A Zork! Like game: **[Text adventure](https://github.com/srLlobet/Dig-Down)**
 
 ## Full Stack 
 
