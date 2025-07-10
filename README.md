@@ -1,7 +1,7 @@
 #### Hi there 👋 I am a senior year multimedia engineering student with a videogames mention, and great passion por programming and videogame design. I would like to use all of my acquired skills and knowledge to start my professional career in the game industry. 
 
 # Current project:
-Programmer of a full-on game engine in c++ ([Sobrassada Engine](https://github.com/TheCenturiaGames/Sobrassada_Engine)
+Programmer of a full-on game engine in c++ [Sobrassada Engine](https://github.com/TheCenturiaGames/Sobrassada_Engine)
 
 Lead Designer & Programmer of a game made in that same engine: [The Hound of Ulstar](https://github.com/TheCenturiaGames/The-Hound-of-Ulster).
 
